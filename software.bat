@@ -1,0 +1,11 @@
+winget install EpicGames.EpicGamesLauncher
+winget install Ubisoft.Connect
+winget install Ubisoft.Connect
+winget install OBSProject.OBSStudio
+winget install Discord.Discord
+winget install Spotify.Spotify
+winget install Mozilla.Firefox
+winget install VB-Audio.Voicemeeter.Banana
+winget install ElectronicArts.EADesktop
+winget install Microsoft.VisualStudioCode
+winget install Valve.Steam
